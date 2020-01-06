@@ -1,0 +1,9 @@
+Catatan Aplikasi
+Login : 
+username: admin@crudbooster.com
+password: 123456
+
+Kekurangan
+1. Integrasi Data Siswa- Mapel - Penilaian Oleh guru (Guru melakukan Penilaian)
+2. Integrasi Data Nilai - Wali Kelas ( Wali Kelas Cetak Raport )
+3. Menampilkan hasil penilaian  di dashboard Murid (Murid Melihat nilai)
